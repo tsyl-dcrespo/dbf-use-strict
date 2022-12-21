@@ -2,6 +2,10 @@
 
 [![Build Status](https://travis-ci.org/mapbox/dbf.svg?branch=master)](https://travis-ci.org/mapbox/dbf)
 
+## why this fork?
+
+This fork is to make the library compatible with `use strict`
+
 ---
 
 ## Looking for new maintainers!
